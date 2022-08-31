@@ -32,4 +32,5 @@
 .mode-toggle-button {
   color: #000000;
   border: 0.1rem solid #000000;
+  border-radius: 0.4rem;
 }
