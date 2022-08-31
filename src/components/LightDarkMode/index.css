@@ -15,6 +15,7 @@
   padding: 2rem;
   background-color: #000000;
   border-radius: 0.6rem;
+  border: 0.1rem solid #000000;
 }
 
 .light-mode-content-container {
