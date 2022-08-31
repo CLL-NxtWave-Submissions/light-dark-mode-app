@@ -1,0 +1,35 @@
+.light-dark-mode-bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 1rem;
+  font-family: 'Roboto';
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: #000000;
+}
+
+.light-mode-content-container {
+  background-color: #ffffff;
+}
+
+.content-header {
+  color: #ffffff;
+  font-size: 3rem;
+}
+
+.light-mode-content-header {
+  color: #000000;
+}
+
+.mode-toggle-button {
+  color: #000000;
+  border: 0.1rem solid #000000;
+}
